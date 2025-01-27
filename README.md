@@ -3,47 +3,55 @@
 
 <br>
 <br>
-  
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Javier!&center=true&color=2AA889)](https://github.com/0re0re0)
 
 </div>
 
 <div>
 
-  ## 📊 &nbsp;Mi Actividad
-
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0re0re0&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0re0re0&layout=compact&theme=gotham" />
-</a>
-
-</div>
-
-
+  ## Acerca de Mi
 
 <div>
-
-  ## 🧭 &nbsp;Acerca de Mi
-
-<div>
+  
   <p style="font-size: 1.2em; color: #2AA889; font-weight: bold; line-height: 1.5;">
     ¡Hola! Soy Javier, un desarrollador junior apasionado por aprender y mejorar mis habilidades en desarrollo web.<br>
     Aprendiendo y creciendo como desarrollador.
   </p>
+  
 </div>
 
-</div>
-
+### Contacto
+<a href="mailto:cardenas97vga@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 <br>
+<a href="https://0re0re0.github.io/Portfolio/" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%232AA889.svg?style=for-the-badge&logo=safari&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+
+</div>
+
 
 
 <div>
+  
+  ## Mi Actividad
 
-  ## 🛠️ &nbsp;Stack Tecnologico
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0re0re0&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
+</a>
+<br>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0re0re0&layout=compact&theme=gotham" />
+</a>
+</div>
+<br>
 
+<div>
+
+  ## Stack Tecnologico
 
 ### Tecnologías
 <br>
@@ -61,21 +69,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
 
-</div>
-
-
-
-<div>
-
-  ## 📫 &nbsp;Contacto
-
-
+### Estudiando Actualmente
+<br>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="60" height="60"/>
 
 </div>
 
 <br>
-
-
-
+<br>
+<br>
 
 Last Edited on: 27/01/2025
