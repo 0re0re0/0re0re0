@@ -26,7 +26,7 @@
 <img src=https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <br>
-<a href="https://0re0re0.github.io/Portfolio/" target="_blank">
+<a href="https://portfolio-otep.onrender.com/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-%232AA889.svg?style=for-the-badge&logo=safari&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
 
@@ -38,14 +38,16 @@
   
   ## Mi Actividad
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0re0re0&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
-</a>
+</div>
+
 <br>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0re0re0&layout=compact&theme=gotham" />
-</a>
+</div>
+
 </div>
 <br>
 
