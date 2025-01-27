@@ -1,11 +1,11 @@
 <div>
 🔴🟡🟢
-
+  
 <br>
 <br>
-
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Javier!&center=true&color=2AA889)](https://github.com/0re0re0)
-
+  
 </div>
 
 <div>
@@ -47,6 +47,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0re0re0&layout=compact&theme=gotham" />
 </a>
 </div>
+
 <br>
 
 <div>
@@ -56,19 +57,25 @@
 ### Tecnologías
 <br>
 <div>
+  <picture>
   <img src="https://skillicons.dev/icons?i=java,html,css,js,nodejs,mongodb,postgres" style="pointer-events: none;" alt="Tech Stack"/>
+  </picture>
 </div>
 
 ### Herramientas
 <br>
 <div>
+  <picture>
   <img src="https://skillicons.dev/icons?i=git,github,docker" style="pointer-events: none;" alt="Tools"/>
+  </picture>
 </div>
 
 ### Estudiando Actualmente
 <br>
 <div>
+  <picture>
   <img src="https://skillicons.dev/icons?i=react,astro" style="pointer-events: none;" alt="Learning"/>
+  </picture>
 </div>
 
 </div>
