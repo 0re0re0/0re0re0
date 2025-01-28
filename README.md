@@ -29,7 +29,10 @@
 <a href="https://portfolio-otep.onrender.com/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-%232AA889.svg?style=for-the-badge&logo=safari&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
-
+<br>
+<a href="https://linkedin.com/in/javiercardenasperdomo97" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
 </div>
 
 
@@ -58,7 +61,7 @@
 <br>
 <div>
   <picture>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,nodejs,mongodb,postgres" style="pointer-events: none;" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,postgres" style="pointer-events: none;" alt="Tech Stack"/>
   </picture>
 </div>
 
@@ -84,4 +87,4 @@
 <br>
 <br>
 
-Last Edited on: 27/01/2025
+Last Edited on: 28/01/2025
