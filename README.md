@@ -10,17 +10,6 @@
 
 <div>
 
-  ## Acerca de Mi
-
-<div>
-  
-  <p style="font-size: 1.2em; color: #2AA889; font-weight: bold; line-height: 1.5;">
-    ¡Hola! Soy Javier, un desarrollador junior apasionado por aprender y mejorar mis habilidades en desarrollo web.<br>
-    Aprendiendo y creciendo como desarrollador.
-  </p>
-  
-</div>
-
 ### Contacto
 <a href="mailto:cardenas97vga@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
