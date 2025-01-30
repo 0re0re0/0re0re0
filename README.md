@@ -15,7 +15,7 @@
 <img src=https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <br>
-<a href="https://portfolio-otep.onrender.com/" target="_blank">
+<a href="https://portfoliojaviercp.netlify.app/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-%232AA889.svg?style=for-the-badge&logo=safari&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
 <br>
