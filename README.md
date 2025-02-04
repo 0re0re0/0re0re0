@@ -50,7 +50,7 @@
 <br>
 <div>
   <picture>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,postgres" style="pointer-events: none;" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,postgres,npm" style="pointer-events: none;" alt="Tech Stack"/>
   </picture>
 </div>
 
@@ -76,4 +76,4 @@
 <br>
 <br>
 
-Last Edited on: 28/01/2025
+Last Edited on: 04/02/2025
