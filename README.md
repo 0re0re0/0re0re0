@@ -50,7 +50,7 @@
 <br>
 <div>
   <picture>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,npm" style="pointer-events: none;" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,astro,js,nodejs,mongodb,npm" style="pointer-events: none;" alt="Tech Stack"/>
   </picture>
 </div>
 
