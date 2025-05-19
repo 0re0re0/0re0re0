@@ -31,12 +31,11 @@
   ## Mi Actividad
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0re0re0&hide=stars,issues&count_private=true&show_icons=true&theme=gotham&random=1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0re0re0&hide=stars,issues&count_private=true&show_icons=true&theme=gotham" />
 </a>
-<br>
-<br>
+<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0re0re0&layout=compact&theme=gotham&random=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0re0re0&layout=compact&theme=gotham" />
 </a>
 </div>
 
@@ -50,7 +49,7 @@
 <br>
 <div>
   <picture>
-  <img src="https://skillicons.dev/icons?i=swift,html,css,astrojs,mongodb,npm" style="pointer-events: none;" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=swift,html,css,astro,js,mongodb,npm" style="pointer-events: none;" alt="Tech Stack"/>
   </picture>
 </div>
 
