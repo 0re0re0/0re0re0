@@ -49,7 +49,7 @@
 <br>
 <div>
   <picture>
-  <img src="https://skillicons.dev/icons?i=swift,html,css,astro,js,mongodb,npm" style="pointer-events: none;" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=swift,html,css,astro,js,nodejs,npm" style="pointer-events: none;" alt="Tech Stack"/>
   </picture>
 </div>
 
@@ -57,7 +57,7 @@
 <br>
 <div>
   <picture>
-  <img src="https://skillicons.dev/icons?i=github,figma" style="pointer-events: none;" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=github,figma,mongodb" style="pointer-events: none;" alt="Tools"/>
   </picture>
 </div>
 
