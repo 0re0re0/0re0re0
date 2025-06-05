@@ -47,9 +47,18 @@
   
 ### Tecnologías
 <br>
+
+### iOS [SwiftUI - UIKIT]
+<br>
+<div>
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" />
+</div>
+
+### Web Background
+<br>
 <div>
   <picture>
-  <img src="https://skillicons.dev/icons?i=swift,html,css,astro,js,nodejs,npm" style="pointer-events: none;" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=astro,html,css,js,nodejs,npm" style="pointer-events: none;" alt="Tech Stack"/>
   </picture>
 </div>
 
@@ -61,18 +70,10 @@
   </picture>
 </div>
 
-### Estudiando Actualmente
-<br>
-<div>
-  <picture>
-  <img src="https://skillicons.dev/icons?i=swift" style="pointer-events: none;" alt="Learning"/>
-  </picture>
-</div>
-
 </div>
 
 <br>
 <br>
 <br>
 
-Last Edited on: 19/05/2025
+Last Edited on: 05/06/2025
